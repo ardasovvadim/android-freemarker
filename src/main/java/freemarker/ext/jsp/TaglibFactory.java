@@ -19,7 +19,7 @@
 
 package freemarker.ext.jsp;
 
-import java.beans.IntrospectionException;
+import com.googlecode.openbeans.IntrospectionException;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;

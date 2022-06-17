@@ -19,8 +19,8 @@
 
 package freemarker.ext.beans;
 
-import java.beans.IndexedPropertyDescriptor;
-import java.beans.PropertyDescriptor;
+import com.googlecode.openbeans.IndexedPropertyDescriptor;
+import com.googlecode.openbeans.PropertyDescriptor;
 
 import freemarker.ext.beans.BeansWrapper.MethodAppearanceDecision;
 import freemarker.ext.beans.BeansWrapper.MethodAppearanceDecisionInput;

@@ -19,12 +19,12 @@
 
 package freemarker.ext.beans;
 
-import java.beans.BeanInfo;
-import java.beans.IndexedPropertyDescriptor;
-import java.beans.IntrospectionException;
-import java.beans.Introspector;
-import java.beans.MethodDescriptor;
-import java.beans.PropertyDescriptor;
+import com.googlecode.openbeans.BeanInfo;
+import com.googlecode.openbeans.IndexedPropertyDescriptor;
+import com.googlecode.openbeans.IntrospectionException;
+import com.googlecode.openbeans.Introspector;
+import com.googlecode.openbeans.MethodDescriptor;
+import com.googlecode.openbeans.PropertyDescriptor;
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
 import java.lang.ref.WeakReference;

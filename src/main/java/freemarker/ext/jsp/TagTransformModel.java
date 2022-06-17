@@ -19,7 +19,7 @@
 
 package freemarker.ext.jsp;
 
-import java.beans.IntrospectionException;
+import com.googlecode.openbeans.IntrospectionException;
 import java.io.CharArrayReader;
 import java.io.CharArrayWriter;
 import java.io.IOException;

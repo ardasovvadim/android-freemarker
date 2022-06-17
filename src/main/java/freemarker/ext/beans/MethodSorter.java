@@ -19,7 +19,7 @@
 
 package freemarker.ext.beans;
 
-import java.beans.MethodDescriptor;
+import com.googlecode.openbeans.MethodDescriptor;
 import java.util.List;
 
 /**
