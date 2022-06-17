@@ -1,4 +1,4 @@
-Apache FreeMarker {version}
+Apache FreeMarker 2.3-gae compatible with Android
 ===========================
 
 [![Build Status](https://travis-ci.org/apache/freemarker.svg?branch=2.3-gae)](https://travis-ci.org/apache/freemarker)
